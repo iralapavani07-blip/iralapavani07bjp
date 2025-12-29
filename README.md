@@ -48,9 +48,9 @@ Right now, I’m developing projects that strengthen my skills and prepare me fo
 ---
 
 ## 🚀 Currently
-- 🌱 Learning advanced AI + Data Science concepts  
-- 📌 Building strong AI + DS projects for resume  
-- 🤝 Open to opportunities in **Data Science | AI | Analytics**  
+-  Learning advanced AI + Data Science concepts  
+-  Building strong AI + DS projects for resume  
+-  Open to opportunities in **Data Science | AI | Analytics**  
 
 ---
 
