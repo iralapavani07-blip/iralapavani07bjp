@@ -46,6 +46,17 @@ Right now, I’m developing projects that strengthen my skills and prepare me fo
 - **Tech:** Python, Pandas, Scikit-Learn, Power BI / Tableau  
 
 ---
+## Professional Business Case Studies
+
+These are independent, real-world business case studies where I analyzed actual business problem patterns and designed data-driven solutions.
+
+• Revenue Leakage & Upsell Intelligence – Subscription Business  
+  → https://github.com/iralapavani07-blip/ai-business-process-intelligence-agent/blob/master/case_studies/revenue_leakage_upsell_case.md
+
+• Operational Bottleneck & Cost Escalation Analysis – Logistics Business  
+  → https://github.com/iralapavani07-blip/ai-business-process-intelligence-agent/blob/master/case_studies/operational_bottleneck_case_study.md
+
+---
 
 ## 🚀 Currently
 -  Learning advanced AI + Data Science concepts  
