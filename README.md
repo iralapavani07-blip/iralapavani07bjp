@@ -33,9 +33,9 @@ Right now, I’m developing projects that strengthen my skills and prepare me fo
 
 AI Business Process Intelligence Agent
 
-. Built an AI-assisted analytics system that analyzes end-to-end business workflows and identifies inefficiencies, delays, and cost leakages using structured data.
-. Generated human-like analytical explanations and actionable insights using LLM-powered reasoning integrated with business KPIs.
-. Enabled faster managerial decision-making through interactive analysis and automated insight generation.
+  Built an AI-assisted analytics system that analyzes end-to-end business workflows and identifies inefficiencies, delays, and cost leakages using structured data.
+  Generated human-like analytical explanations and actionable insights using LLM-powered reasoning integrated with business KPIs.
+  Enabled faster managerial decision-making through interactive analysis and automated insight generation.
   Tech: Python, Pandas, SQL, Streamlit, LangChain, LLMs
 
 Enterprise Operations Analytics & Decision Platform
