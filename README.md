@@ -31,20 +31,28 @@ Right now, I’m developing projects that strengthen my skills and prepare me fo
 
 ## 📌 Projects
 
-### 🔹 AI Business Process Intelligence Agent
-- AI-assisted analytics system that analyzes business workflows and identifies inefficiencies  
-- Generates insights + human-like analytical explanations using LLMs  
-- Supports business decision-making through structured reasoning and interactive analysis  
-- **Tech:** Python, Pandas, SQL, Streamlit, LangChain, LLM  
+AI Business Process Intelligence Agent
 
----
+. Built an AI-assisted analytics system that analyzes end-to-end business workflows and identifies inefficiencies, delays, and cost leakages using structured data.
+. Generated human-like analytical explanations and actionable insights using LLM-powered reasoning integrated with business KPIs.
+. Enabled faster managerial decision-making through interactive analysis and automated insight generation.
+  Tech: Python, Pandas, SQL, Streamlit, LangChain, LLMs
 
-### 🔹 Supply Chain Demand Forecasting & Risk Dashboard
-- Predicts demand using historical data and highlights supply chain risk factors  
-- Visualizes performance trends with dashboards for better planning and decisions  
-- Demonstrates forecasting, analytics thinking, and real-world business understanding  
-- **Tech:** Python, Pandas, Scikit-Learn, Power BI / Tableau  
+Enterprise Operations Analytics & Decision Platform
 
+. Built an end-to-end operations analytics platform to monitor KPIs, processing time trends, and operational performance using real business-style data.
+. Performed bottleneck analysis to identify high-delay process stages and cost escalation points, enabling targeted operational improvements.
+. Developed interactive dashboards with filters and trend analysis to support data-driven operational and managerial decision-making.
+  Tech: Python, Pandas, SQL, Streamlit, Statistics, Data Visualization
+
+Customer Revenue & Churn Intelligence System 
+
+. Designed a revenue analytics system to identify churn risk, revenue leakage, and upsell opportunities using customer behavior and transaction data.
+. Applied statistical analysis and predictive modeling to quantify revenue impact and prioritize high-risk customer segments.
+. Built executive-ready dashboards to track churn trends, revenue risk, and retention performance for business teams.
+  Tech: SQL, Python, Statistics, Machine Learning, Power BI / Tableau
+
+ 
 ---
 ## Professional Business Case Studies
 
