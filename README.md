@@ -10,12 +10,11 @@ I am comfortable working with data pipelines, analysis, dashboards, and AI-drive
 ---
 
 ## Core Skills
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
-- **Machine Learning:** Supervised & Unsupervised Learning, Predictive Modeling  
-- **Statistics:** Descriptive Statistics, Trend Analysis, Business KPIs  
+
+- **DS/AI:**  Data Wrangling, Supervised & Unsupervised Learning, Predictive Modeling, NLP, EDA, Trend Analysis. 
 - **Programming:** Python, SQL  
-- **AI & LLMs:** LangChain, LLM integrations, AI Agents  
-- **Dashboards & Apps:** Streamlit  
+- **AI & LLMs:** LangChain, LLM integrations, AI Agents.
+- **Tools/Libraries:** Numpy, Pandas, Matplotlib, Plotly.  
 
 ---
 
